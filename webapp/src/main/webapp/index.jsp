@@ -31,7 +31,7 @@
     <p>3rd commit iiieady have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning from docker container  </h1>
+   <h1> Thankyou, Happy Learning from ansible play deployment  </h1>
 
   
 </form>
